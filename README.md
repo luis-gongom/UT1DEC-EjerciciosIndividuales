@@ -1,4 +1,4 @@
-# 📚 Ejercicios y Soluciones - [Nombre de la Asignatura]
+# 📚 Ejercicios y Soluciones
 
 ¡Bienvenido al repositorio oficial de soluciones de la UT1 de DEC!
 
